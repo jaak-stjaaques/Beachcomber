@@ -1,0 +1,50 @@
+# A 32 s demo: four tracks collected from the ARP, then the ARP off, a new scale, a transposition
+100 btn 3
+200 enc 2 3
+300 btn 2
+400 enc 2 8
+500 enc 4 6
+600 enc 5 -2
+700 btn 10
+800 enc 2 -10
+900 enc 3 -1
+1000 btn 12
+# track 1 (PLUCK): 7 steps, 1/16
+1100 btn 13
+3000 btn 13
+# track 2 (BLOW): 1/8, a lower register, 5 steps
+3100 enc 0 1
+3200 enc 6 -2
+3300 enc 3 -2
+3400 btn 10
+3500 btn 10
+3600 btn 13
+6400 btn 13
+# track 3 (HIT): 1/16, sparse
+6500 enc 0 1
+6600 enc 6 2
+6700 enc 3 5
+6800 enc 5 -5
+6900 enc 4 1
+7000 btn 13
+9300 btn 13
+# track 4 (PLUCK, Maj7 chords): 1/4
+9400 enc 0 1
+9500 enc 6 -4
+9600 enc 3 -6
+9700 enc 5 10
+9800 btn 13
+13800 btn 13
+# the ARP off: only the tracks
+13900 btn 10
+14100 btn 11
+14200 enc 3 2
+18000 btn 3
+18100 enc 2 6
+22000 keys 0x400
+22050 keys 0
+26000 btn 2
+26100 enc 3 -4
+26200 enc 5 6
+30000 shot
+32000 end

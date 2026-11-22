@@ -1,0 +1,9 @@
+{
+  "what": "A random ARP and four-track looper for the FM-1. Sixteen dice wash melodies up; keep the ones you like on four tracks of their own lengths, punch in, shift them in the scale, and let the scale come last. Pluck, blow, hit and tube engines with chord pings, parallel delay, hall and chorus. Nothing is saved.",
+  "kinds": ["synth"],
+  "play": "https://joakimeriksson.github.io/fm1-emu/",
+  "cheat": "https://github.com/jaak-stjaaques/Beachcomber/blob/main/docs/OPERATOR-MANUAL.md",
+  "image": "docs/fmhub-card.png",
+  "color": "#75DED5",
+  "sounds": "none"
+}

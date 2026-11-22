@@ -1,0 +1,83 @@
+# The screenshots of docs/screenshots: tests/run_host.sh tests/scripts/shots.txt (BEACHCOMBER)
+400 shot
+1600 btn 12
+1700 btn 10
+1800 keys 0x1
+1850 keys 0
+1900 keys 0x10
+1950 keys 0
+2000 keys 0x80
+2050 keys 0
+2100 keys 0x800
+2150 keys 0
+2200 keys 0x4000
+2250 keys 0
+2300 enc 3 -1
+2400 enc 5 2
+2500 enc 2 -4
+2600 btn 13
+3800 btn 13
+3900 enc 0 1
+4000 enc 6 -2
+4100 btn 13
+6200 btn 13
+6300 enc 0 1
+6400 enc 6 2
+6500 btndown 10
+7300 btnup 10
+7400 enc 5 -4
+7500 btn 13
+8800 btn 13
+8900 enc 0 1
+9000 enc 6 -4
+9100 enc 5 4
+9200 btn 13
+12400 btn 13
+12500 enc 0 -2
+12600 btn 11
+12700 enc 1 -6
+12800 enc 3 2
+13600 shot
+13700 btn 8
+13800 btndown 8
+13900 enc 2 -8
+14000 enc 3 6
+14100 enc 4 -3
+14200 enc 5 10
+14300 btnup 8
+14400 enc 3 -2
+14500 enc 5 -3
+16500 shot
+16600 btn 10
+16700 btn 10
+17500 shot
+17600 btn 3
+17800 shot
+17900 btn 6
+18000 enc 2 3
+18100 enc 3 14
+18200 enc 4 6
+18300 enc 5 -3
+18500 shot
+18600 btn 4
+18700 enc 2 2
+18800 enc 3 12
+18900 enc 4 -4
+19000 enc 5 8
+19200 shot
+19300 btn 5
+19400 enc 2 2
+19500 enc 4 -20
+19600 enc 5 7
+19800 shot
+19900 btn 2
+20000 enc 2 4
+20100 enc 4 2
+20200 enc 5 3
+20400 shot
+20500 btn 7
+20600 enc 3 6
+20800 shot
+21000 btn 9
+21300 shot
+21500 end

@@ -1,0 +1,53 @@
+# BEACHCOMBER tour: boot, play, the ARP, record two tracks, every page
+1600 shot
+1700 btn 12
+3000 shot
+3100 btn 10
+3200 keys 0x1
+3250 keys 0
+3300 keys 0x10
+3350 keys 0
+3400 keys 0x80
+3450 keys 0
+3500 keys 0x200
+3550 keys 0
+3600 enc 4 1
+4000 shot
+4100 btn 13
+6100 btn 13
+6200 enc 0 1
+6300 enc 2 4
+6400 btn 13
+7400 btn 13
+7500 btn 11
+7600 enc 3 2
+8000 shot
+8100 btn 8
+8600 shot
+8700 btn 3
+8800 keys 0x400
+8850 keys 0
+8900 enc 2 9
+9300 shot
+9400 btn 6
+9500 enc 6 9
+9800 shot
+9900 btn 4
+10200 shot
+10300 btn 5
+10400 enc 5 6
+10700 shot
+10800 btn 2
+10900 enc 3 4
+11000 enc 5 5
+11300 shot
+11400 btn 7
+11500 enc 3 10
+11800 shot
+11900 btn 10
+12000 btn 10
+12300 shot
+12400 btn 11
+12500 btn 9
+14500 shot
+14600 end
